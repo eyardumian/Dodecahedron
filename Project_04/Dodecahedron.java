@@ -2,8 +2,7 @@ import java.text.DecimalFormat;
 /**
  *Creates a Dodecahedron class that stores the label, color, and edge.
  *
- *Project 4 (Dodecahedron)
- *@author Erika Yardumian - CPSC - 1213
+ *@author Erika Yardumian
  *@version 9/16/18
  */
 public class Dodecahedron {
