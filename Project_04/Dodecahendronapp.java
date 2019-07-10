@@ -3,8 +3,7 @@ import java.util.Scanner;
  *Creates a Dodecahedron class that reads in values for label, color, and edge
  *and creates a Dodecahedron object.
  *
- *Project 4 (DodecahedronApp)
- *@author Erika Yardumian - CPSC - 1213
+ *@author Erika Yardumian
  *@version 9/16/18
  */
 public class Dodecahendronapp {
